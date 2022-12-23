@@ -1,4 +1,4 @@
-
+# xv6 lab2 syscall
 ## 1. sys_trace
 
 这个实验的任务是编写一个trace，去追踪系统的调用，为了实现追踪的功能，需要修改perl的脚本和syscall.c
